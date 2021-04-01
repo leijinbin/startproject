@@ -38,4 +38,8 @@ public class DeptController {
         System.out.println("删除部门-------------------------");
         deptDao.delDept(id);
     }
+    
+    public void test(){
+     System.out.println("gitHub上添加代码");   
+    }
 }
